@@ -1,0 +1,25 @@
+{
+  "name": "packages",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "jsonwebtoken": "^8.5.1",
+    "mongojs": "*",
+    "mongoose": "^5.10.0",
+    "node-localstorage": "^2.1.6",
+    "router": "^1.3.5"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Atul Kumar",
+  "license": "ISC"
+}
